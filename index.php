@@ -1,10 +1,13 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Untitled Document</title>
-</head>
+<script type="text/javascript">
+	document.write("Hello " + "World!" + "<br />");
+</script>
 
-<body>
-</body>
-</html>
+<strong>Hello World!</strong><br />
+
+<div style="color: #ff0000">Hello World!</div>
+
+<?php
+    echo 'Hello ', 'World!' , '<br />';
+    
+    
+?>
